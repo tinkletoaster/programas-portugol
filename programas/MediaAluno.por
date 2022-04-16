@@ -1,5 +1,4 @@
 // Programa que pede a média e o nome de um aluno, e diz se ele foi aprovado ou não.
-// Autor: uma casca de nóz
 
 
 programa
